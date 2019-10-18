@@ -15,6 +15,8 @@ class ViewController: UIViewController {
         
         print("Yuta Fujiiです オーナーです")
         
+        print("Tenshinです サブです")
+        
         // Do any additional setup after loading the view.
     }
 
