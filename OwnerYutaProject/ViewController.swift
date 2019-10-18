@@ -12,6 +12,9 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        
+        print("Yuta Fujiiです オーナーです")
+        
         // Do any additional setup after loading the view.
     }
 
